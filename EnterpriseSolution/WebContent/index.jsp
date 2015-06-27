@@ -14,7 +14,7 @@
 
 	<s:form action="login" namespace="" method="post" >
 		<s:textfield name="firstName" label="First Name :"></s:textfield>
-		<s:password name="lastName" label="Last Name :"></s:password>
+		<s:textfield name="lastName" label="Last Name :"></s:textfield>
 		<s:submit value="login"></s:submit>
 	</s:form>
 
