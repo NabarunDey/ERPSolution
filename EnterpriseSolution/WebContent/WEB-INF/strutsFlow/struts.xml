@@ -9,6 +9,6 @@
 	<package name="default" namespace="" extends="struts-default">
 	</package>
 	
-	<include file="*"></include>
+	<include file="*subapp*"></include>
 
 </struts>
